@@ -5,7 +5,7 @@ import Subtract from './components/Subtract';
 import Multiply from './components/Multiply';
 import Divide from './components/Divide';
 
-function App() {
+function App(){
   const [input, setInput] = useState('');
   const [result, setResult] = useState(0);
 
